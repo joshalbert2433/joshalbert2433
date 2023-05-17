@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Joshua</h1>
 <h3 align="center">A passionate Full-stack Web Developer from Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joshalbert2433&label=Profile%20views&color=0293ed&style=flat" alt="joshalbert2433" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://joshua-albert-villanueva.vercel.app/](https://joshua-albert-villanueva.vercel.app/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -15,3 +12,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshalbert2433&show_icons=true&theme=onedark&locale=en&layout=compact" alt="joshalbert2433" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshalbert2433&show_icons=true&theme=onedark&locale=en" alt="joshalbert2433" /></p>
+
+<a href="https://app.daily.dev/joalvi2433"><img src="https://api.daily.dev/devcards/44f6411fd2624bfa8b6a6d477767d6fd.png?r=pp1" width="400" alt="Joshua Albert Villanueva's Dev Card"/></a>
