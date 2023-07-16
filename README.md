@@ -13,4 +13,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshalbert2433&show_icons=true&theme=onedark&locale=en" alt="joshalbert2433" /></p>
 
-<a href="https://app.daily.dev/joalvi2433"><img src="https://api.daily.dev/devcards/44f6411fd2624bfa8b6a6d477767d6fd.png?r=pp1" width="400" alt="Joshua Albert Villanueva's Dev Card"/></a>
